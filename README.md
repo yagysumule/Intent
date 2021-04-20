@@ -10,7 +10,7 @@ _Codelab_ ini menitikberatkan pada implementasi intent untuk melakukan perpindah
 
 _Codelab_ selanjutnya adalah dengan membuat aplikasi yang dapat menerapkan kegunaan intent. Seperti ini tampilannya:
 
-![Intent](https://user-images.githubusercontent.com/68750843/115341085-199f3380-a1d2-11eb-9913-d3c5a284d148.gif)
+![Intent](https://user-images.githubusercontent.com/68750843/115341901-94b51980-a1d3-11eb-8914-1527c05e0f86.gif)
 
 # Logika Dasar
 __Berpindah__ dari suatu activity ke activity lain dengan membawa data. Activity asal akan __mengirimkan data__ melalui intent dan activity tujuan akan __menerima data__ yang dikirimkan.
